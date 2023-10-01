@@ -1,0 +1,33 @@
+/* this is a comment*/
+
+@import url('https://fonts.googleapis.com/css2?family=Titan+One&display=swap');
+
+html{
+    font-family: "Titan One", sans-serif;
+    box-sizing: border-box;
+    padding-left: 5% ;
+}
+
+h1{
+    font-size: 3em;
+    font-weight: bold;
+    color: grey;
+    text-align: center;
+}
+h2{
+    font-size: 1.8em;
+    font-family: cursive;
+    color: gray; 
+    text-align: left;
+}
+
+#skills-list{
+    list-style: decimal-leading-zero;
+    color: whitesmoke;
+    text-align: center;
+}
+
+body{
+    background-color: paleturquoise ;
+
+}
